@@ -2,18 +2,6 @@ body {
   background: linear-gradient(to right, #4568dc, #b06ab3);
 }
 
-body {
-  background: linear-gradient(to top, #4568dc, #b06ab3);
-}
-
-body {
-  background: linear-gradient(to left, #4568dc, #b06ab3);
-}
-
-body {
-  background: linear-gradient(to bottom, #4568dc, #b06ab3);
-}
-
 div {
   text-align: center;
 }
