@@ -1,1 +1,1 @@
-https://tuonghoa2k7.github.io/
+https://tuonghoa2k7.com/
