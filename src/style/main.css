@@ -1,0 +1,73 @@
+/* * {
+    border: 1px solid #f00
+} */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    min-height: calc(100vh - 120px);
+}
+
+.main .home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main .home-page .home-page-header {
+    display: flex;
+    /* flex-direction: row; */
+    align-items: flex-end;
+    justify-content: center;
+    gap: 4px;
+}
+
+.main .home-page .home-page-header h1 {
+    font-size: 36px;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.main .home-page .home-page-header p {
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.main .home-page h1 {
+    font-size: 36px;
+    text-align: center;
+    color: white;
+}
+
+.main .home-page h2 {
+    font-size: 24px;
+    text-align: center;
+    color: white;
+
+}
+
+.main .home-page p {
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+.main .home-page p a {
+    color: #4c6fa7;
+}
